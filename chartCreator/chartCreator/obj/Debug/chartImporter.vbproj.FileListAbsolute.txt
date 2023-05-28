@@ -1,0 +1,54 @@
+C:\Users\Knoxy\AppData\Local\Temporary Projects\chartImporter\bin\Debug\chartImporter.exe
+C:\Users\Knoxy\AppData\Local\Temporary Projects\chartImporter\bin\Debug\chartImporter.pdb
+C:\Users\Knoxy\AppData\Local\Temporary Projects\chartImporter\bin\Debug\chartImporter.xml
+C:\Users\Knoxy\AppData\Local\Temporary Projects\chartImporter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Knoxy\AppData\Local\Temporary Projects\chartImporter\obj\Debug\chartImporter.mainForm.resources
+C:\Users\Knoxy\AppData\Local\Temporary Projects\chartImporter\obj\Debug\chartImporter.Resources.resources
+C:\Users\Knoxy\AppData\Local\Temporary Projects\chartImporter\obj\Debug\chartImporter.vbproj.GenerateResource.Cache
+C:\Users\Knoxy\AppData\Local\Temporary Projects\chartImporter\obj\Debug\chartImporter.exe
+C:\Users\Knoxy\AppData\Local\Temporary Projects\chartImporter\obj\Debug\chartImporter.xml
+C:\Users\Knoxy\AppData\Local\Temporary Projects\chartImporter\obj\Debug\chartImporter.pdb
+C:\Users\Knoxy\Documents\Visual Studio 2008\Projects\chartImporter\obj\Debug\chartImporter.exe
+C:\Users\Knoxy\Documents\Visual Studio 2008\Projects\chartImporter\obj\Debug\chartImporter.xml
+C:\Users\Knoxy\Documents\Visual Studio 2008\Projects\chartImporter\obj\Debug\chartImporter.pdb
+C:\Users\Knoxy\Documents\Visual Studio 2008\Projects\chartImporter\bin\Debug\chartImporter.exe
+C:\Users\Knoxy\Documents\Visual Studio 2008\Projects\chartImporter\bin\Debug\chartImporter.pdb
+C:\Users\Knoxy\Documents\Visual Studio 2008\Projects\chartImporter\bin\Debug\chartImporter.xml
+C:\Users\Knoxy\Documents\Visual Studio 2008\Projects\chartImporter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Knoxy\Documents\Visual Studio 2008\Projects\chartImporter\obj\Debug\chartImporter.mainForm.resources
+C:\Users\Knoxy\Documents\Visual Studio 2008\Projects\chartImporter\obj\Debug\chartImporter.Resources.resources
+C:\Users\Knoxy\Documents\Visual Studio 2008\Projects\chartImporter\obj\Debug\chartImporter.vbproj.GenerateResource.Cache
+C:\Users\Knoxy\Documents\Visual Studio 2008\Projects\chartImporter\obj\Debug\chartImporter.debugForm.resources
+C:\Users\Knoxy\Documents\Visual Studio 2008\Projects\chartImporter\obj\Debug\chartImporter.debugForm2.resources
+C:\Users\Knoxy\Documents\Visual Studio 2010\Projects\chartImporter\obj\Debug\chartImporter.exe
+C:\Users\Knoxy\Documents\Visual Studio 2010\Projects\chartImporter\obj\Debug\chartImporter.xml
+C:\Users\Knoxy\Documents\Visual Studio 2010\Projects\chartImporter\obj\Debug\chartImporter.pdb
+C:\Users\Knoxy\Documents\Visual Studio 2010\Projects\chartImporter\bin\Debug\chartImporter.exe
+C:\Users\Knoxy\Documents\Visual Studio 2010\Projects\chartImporter\bin\Debug\chartImporter.pdb
+C:\Users\Knoxy\Documents\Visual Studio 2010\Projects\chartImporter\bin\Debug\chartImporter.xml
+C:\Users\Knoxy\Documents\Visual Studio 2010\Projects\chartImporter\obj\Debug\chartImporter.debugForm.resources
+C:\Users\Knoxy\Documents\Visual Studio 2010\Projects\chartImporter\obj\Debug\chartImporter.debugForm2.resources
+C:\Users\Knoxy\Documents\Visual Studio 2010\Projects\chartImporter\obj\Debug\chartImporter.mainForm.resources
+C:\Users\Knoxy\Documents\Visual Studio 2010\Projects\chartImporter\obj\Debug\chartImporter.Resources.resources
+C:\Users\Knoxy\Documents\Visual Studio 2010\Projects\chartImporter\obj\Debug\chartImporter.vbproj.GenerateResource.Cache
+C:\Users\Knoxy\Documents\Visual Studio 2010\Projects\chartImporter2\obj\Debug\chartImporter.exe
+C:\Users\Knoxy\Documents\Visual Studio 2010\Projects\chartImporter2\obj\Debug\chartImporter.xml
+C:\Users\Knoxy\Documents\Visual Studio 2010\Projects\chartImporter2\obj\Debug\chartImporter.pdb
+C:\Users\Knoxy\Documents\Visual Studio 2010\Projects\chartImporter2\obj\Debug\chartImporter.mainForm.resources
+C:\Users\Knoxy\Documents\Visual Studio 2010\Projects\chartImporter2\obj\Debug\chartImporter.Resources.resources
+C:\Users\Knoxy\Documents\Visual Studio 2010\Projects\chartImporter2\obj\Debug\chartImporter.vbproj.GenerateResource.Cache
+C:\Users\Knoxy\Documents\Visual Studio 2010\Projects\chartImporter2\bin\Debug\chartImporter.exe
+C:\Users\Knoxy\Documents\Visual Studio 2010\Projects\chartImporter2\bin\Debug\chartImporter.pdb
+C:\Users\Knoxy\Documents\Visual Studio 2010\Projects\chartImporter2\bin\Debug\chartImporter.xml
+C:\Users\Knoxy\Documents\Visual Studio 2010\Projects\chartImporter2\obj\Debug\chartImporter.bpmDlg.resources
+C:\Users\Knoxy\Documents\Visual Studio 2010\Projects\chartImporter2\obj\Debug\chartImporter.chartDlg.resources
+C:\Users\Knoxy\Documents\Visual Studio 2010\Projects\chartImporter2\bin\Debug\chartImporter.exe.manifest
+C:\Users\Knoxy\Documents\Visual Studio 2010\Projects\chartImporter2\bin\Debug\chartImporter.application
+C:\Users\Knoxy\Documents\Visual Studio 2010\Projects\chartImporter2\obj\Debug\chartImporter.exe.manifest
+C:\Users\Knoxy\Documents\Visual Studio 2010\Projects\chartImporter2\obj\Debug\chartImporter.application
+C:\Users\Knoxy\Documents\Visual Studio 2010\Projects\chartImporter2\obj\Debug\chartImporter.AboutBox1.resources
+C:\Users\Knoxy\Documents\Visual Studio 2010\Projects\chartImporter2\obj\Debug\chartImporter.changesDlg.resources
+C:\Users\Knoxy\Documents\Visual Studio 2010\Projects\chartImporter2\obj\Debug\chartImporter.timingDlg.resources
+C:\Users\Knoxy\Documents\Visual Studio 2010\Projects\chartCreator\obj\Debug\chartImporter.exe
+C:\Users\Knoxy\Documents\Visual Studio 2010\Projects\chartCreator\obj\Debug\chartImporter.xml
+C:\Users\Knoxy\Documents\Visual Studio 2010\Projects\chartCreator\obj\Debug\chartImporter.pdb

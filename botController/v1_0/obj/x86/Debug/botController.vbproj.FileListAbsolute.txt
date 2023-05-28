@@ -1,0 +1,31 @@
+C:\Users\Knoxy\AppData\Local\Temporary Projects\botController\bin\Debug\botController.exe
+C:\Users\Knoxy\AppData\Local\Temporary Projects\botController\bin\Debug\botController.pdb
+C:\Users\Knoxy\AppData\Local\Temporary Projects\botController\bin\Debug\botController.xml
+C:\Users\Knoxy\AppData\Local\Temporary Projects\botController\obj\x86\Debug\botController.mainForm.resources
+C:\Users\Knoxy\AppData\Local\Temporary Projects\botController\obj\x86\Debug\botController.Resources.resources
+C:\Users\Knoxy\AppData\Local\Temporary Projects\botController\obj\x86\Debug\botController.vbproj.GenerateResource.Cache
+C:\Users\Knoxy\AppData\Local\Temporary Projects\botController\obj\x86\Debug\botController.exe
+C:\Users\Knoxy\AppData\Local\Temporary Projects\botController\obj\x86\Debug\botController.xml
+C:\Users\Knoxy\AppData\Local\Temporary Projects\botController\obj\x86\Debug\botController.pdb
+C:\Users\Knoxy\documents\visual studio 2010\Projects\botController\obj\x86\Debug\botController.exe
+C:\Users\Knoxy\documents\visual studio 2010\Projects\botController\obj\x86\Debug\botController.xml
+C:\Users\Knoxy\documents\visual studio 2010\Projects\botController\obj\x86\Debug\botController.pdb
+C:\Users\Knoxy\documents\visual studio 2010\Projects\botController\bin\Debug\botController.exe
+C:\Users\Knoxy\documents\visual studio 2010\Projects\botController\bin\Debug\botController.pdb
+C:\Users\Knoxy\documents\visual studio 2010\Projects\botController\bin\Debug\botController.xml
+C:\Users\Knoxy\documents\visual studio 2010\Projects\botController\obj\x86\Debug\botController.mainForm.resources
+C:\Users\Knoxy\documents\visual studio 2010\Projects\botController\obj\x86\Debug\botController.Resources.resources
+C:\Users\Knoxy\documents\visual studio 2010\Projects\botController\obj\x86\Debug\botController.vbproj.GenerateResource.Cache
+C:\Users\Knoxy\documents\visual studio 2010\Projects\botController\obj\x86\Debug\botController.dlgLoadChart.resources
+C:\Users\Knoxy\documents\visual studio 2010\Projects\botController\obj\x86\Debug\botController.dlgAddChart.resources
+\\KNOXY-NAS\Backups\rbBot\botController\v1_0\obj\x86\Debug\botController.exe
+\\KNOXY-NAS\Backups\rbBot\botController\v1_0\obj\x86\Debug\botController.xml
+\\KNOXY-NAS\Backups\rbBot\botController\v1_0\obj\x86\Debug\botController.pdb
+\\KNOXY-NAS\Backups\rbBot\botController\v1_0\bin\Debug\botController.exe
+\\KNOXY-NAS\Backups\rbBot\botController\v1_0\bin\Debug\botController.pdb
+\\KNOXY-NAS\Backups\rbBot\botController\v1_0\bin\Debug\botController.xml
+\\KNOXY-NAS\Backups\rbBot\botController\v1_0\obj\x86\Debug\botController.dlgAddChart.resources
+\\KNOXY-NAS\Backups\rbBot\botController\v1_0\obj\x86\Debug\botController.dlgLoadChart.resources
+\\KNOXY-NAS\Backups\rbBot\botController\v1_0\obj\x86\Debug\botController.mainForm.resources
+\\KNOXY-NAS\Backups\rbBot\botController\v1_0\obj\x86\Debug\botController.Resources.resources
+\\KNOXY-NAS\Backups\rbBot\botController\v1_0\obj\x86\Debug\botController.vbproj.GenerateResource.Cache

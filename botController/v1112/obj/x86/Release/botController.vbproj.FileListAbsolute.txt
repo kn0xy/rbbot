@@ -1,0 +1,12 @@
+C:\Users\Knoxy\documents\visual studio 2010\Projects\botController\bin\Release\botController.exe
+C:\Users\Knoxy\documents\visual studio 2010\Projects\botController\bin\Release\botController.pdb
+C:\Users\Knoxy\documents\visual studio 2010\Projects\botController\bin\Release\botController.xml
+C:\Users\Knoxy\documents\visual studio 2010\Projects\botController\obj\x86\Release\botController.dlgAddChart.resources
+C:\Users\Knoxy\documents\visual studio 2010\Projects\botController\obj\x86\Release\botController.dlgLoadChart.resources
+C:\Users\Knoxy\documents\visual studio 2010\Projects\botController\obj\x86\Release\botController.mainForm.resources
+C:\Users\Knoxy\documents\visual studio 2010\Projects\botController\obj\x86\Release\botController.Resources.resources
+C:\Users\Knoxy\documents\visual studio 2010\Projects\botController\obj\x86\Release\botController.vbproj.GenerateResource.Cache
+C:\Users\Knoxy\documents\visual studio 2010\Projects\botController\obj\x86\Release\botController.exe
+C:\Users\Knoxy\documents\visual studio 2010\Projects\botController\obj\x86\Release\botController.xml
+C:\Users\Knoxy\documents\visual studio 2010\Projects\botController\obj\x86\Release\botController.pdb
+C:\Users\Knoxy\documents\visual studio 2010\Projects\botController\obj\x86\Release\botController.dlgConsole.resources

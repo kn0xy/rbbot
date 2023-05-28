@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="chartImporter">
+</Property><Property Name="Solution File" Value="C:\Users\Knoxy\Documents\Visual Studio 2010\Projects\chartImporter\chartImporter.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Knoxy\Documents\Visual Studio 2010\Projects\chartImporter\chartImporter.suo">
+</Property><Property Name="Date" Value="Thursday, February 5, 2015">
+</Property><Property Name="Time" Value="11:49 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="chartImporter.sln" Description="File successfully backed up as C:\Users\Knoxy\Documents\Visual Studio 2010\Projects\chartImporter\Backup\chartImporter.sln">
+</Event><Event ErrorLevel="0" Project="" Source="chartImporter.suo" Description="File successfully backed up as C:\Users\Knoxy\Documents\Visual Studio 2010\Projects\chartImporter\Backup\chartImporter.suo">
+</Event><Event ErrorLevel="0" Project="chartImporter" Source="chartImporter.vbproj" Description="Project file successfully backed up as C:\Users\Knoxy\Documents\Visual Studio 2010\Projects\chartImporter\Backup\chartImporter.vbproj">
+</Event><Event ErrorLevel="0" Project="chartImporter" Source="chartImporter.vbproj.user" Description="Project user file successfully backed up as C:\Users\Knoxy\Documents\Visual Studio 2010\Projects\chartImporter\Backup\chartImporter.vbproj.user">
+</Event><Event ErrorLevel="0" Project="chartImporter" Source="debugForm.Designer.vb" Description="File successfully backed up as C:\Users\Knoxy\Documents\Visual Studio 2010\Projects\chartImporter\Backup\debugForm.Designer.vb">
+</Event><Event ErrorLevel="0" Project="chartImporter" Source="debugForm.vb" Description="File successfully backed up as C:\Users\Knoxy\Documents\Visual Studio 2010\Projects\chartImporter\Backup\debugForm.vb">
+</Event><Event ErrorLevel="0" Project="chartImporter" Source="debugForm2.Designer.vb" Description="File successfully backed up as C:\Users\Knoxy\Documents\Visual Studio 2010\Projects\chartImporter\Backup\debugForm2.Designer.vb">
+</Event><Event ErrorLevel="0" Project="chartImporter" Source="debugForm2.vb" Description="File successfully backed up as C:\Users\Knoxy\Documents\Visual Studio 2010\Projects\chartImporter\Backup\debugForm2.vb">
+</Event><Event ErrorLevel="0" Project="chartImporter" Source="Functions.vb" Description="File successfully backed up as C:\Users\Knoxy\Documents\Visual Studio 2010\Projects\chartImporter\Backup\Functions.vb">
+</Event><Event ErrorLevel="0" Project="chartImporter" Source="mainForm.vb" Description="File successfully backed up as C:\Users\Knoxy\Documents\Visual Studio 2010\Projects\chartImporter\Backup\mainForm.vb">
+</Event><Event ErrorLevel="0" Project="chartImporter" Source="mainForm.Designer.vb" Description="File successfully backed up as C:\Users\Knoxy\Documents\Visual Studio 2010\Projects\chartImporter\Backup\mainForm.Designer.vb">
+</Event><Event ErrorLevel="0" Project="chartImporter" Source="My Project\AssemblyInfo.vb" Description="File successfully backed up as C:\Users\Knoxy\Documents\Visual Studio 2010\Projects\chartImporter\Backup\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="chartImporter" Source="My Project\Application.Designer.vb" Description="File successfully backed up as C:\Users\Knoxy\Documents\Visual Studio 2010\Projects\chartImporter\Backup\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="chartImporter" Source="My Project\Resources.Designer.vb" Description="File successfully backed up as C:\Users\Knoxy\Documents\Visual Studio 2010\Projects\chartImporter\Backup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="chartImporter" Source="My Project\Settings.Designer.vb" Description="File successfully backed up as C:\Users\Knoxy\Documents\Visual Studio 2010\Projects\chartImporter\Backup\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="chartImporter" Source="My Project\Application.myapp" Description="File successfully backed up as C:\Users\Knoxy\Documents\Visual Studio 2010\Projects\chartImporter\Backup\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="chartImporter" Source="My Project\Settings.settings" Description="File successfully backed up as C:\Users\Knoxy\Documents\Visual Studio 2010\Projects\chartImporter\Backup\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="chartImporter" Source="img\rnote.png" Description="File successfully backed up as C:\Users\Knoxy\Documents\Visual Studio 2010\Projects\chartImporter\Backup\img\rnote.png">
+</Event><Event ErrorLevel="0" Project="chartImporter" Source="img\bnote.png" Description="File successfully backed up as C:\Users\Knoxy\Documents\Visual Studio 2010\Projects\chartImporter\Backup\img\bnote.png">
+</Event><Event ErrorLevel="0" Project="chartImporter" Source="img\onote.png" Description="File successfully backed up as C:\Users\Knoxy\Documents\Visual Studio 2010\Projects\chartImporter\Backup\img\onote.png">
+</Event><Event ErrorLevel="0" Project="chartImporter" Source="img\snote.png" Description="File successfully backed up as C:\Users\Knoxy\Documents\Visual Studio 2010\Projects\chartImporter\Backup\img\snote.png">
+</Event><Event ErrorLevel="0" Project="chartImporter" Source="img\ynote.png" Description="File successfully backed up as C:\Users\Knoxy\Documents\Visual Studio 2010\Projects\chartImporter\Backup\img\ynote.png">
+</Event><Event ErrorLevel="0" Project="chartImporter" Source="img\gnote.png" Description="File successfully backed up as C:\Users\Knoxy\Documents\Visual Studio 2010\Projects\chartImporter\Backup\img\gnote.png">
+</Event><Event ErrorLevel="0" Project="chartImporter" Source="img\rowMarker.png" Description="File successfully backed up as C:\Users\Knoxy\Documents\Visual Studio 2010\Projects\chartImporter\Backup\img\rowMarker.png">
+</Event><Event ErrorLevel="0" Project="chartImporter" Source="debugForm.resx" Description="File successfully backed up as C:\Users\Knoxy\Documents\Visual Studio 2010\Projects\chartImporter\Backup\debugForm.resx">
+</Event><Event ErrorLevel="0" Project="chartImporter" Source="debugForm2.resx" Description="File successfully backed up as C:\Users\Knoxy\Documents\Visual Studio 2010\Projects\chartImporter\Backup\debugForm2.resx">
+</Event><Event ErrorLevel="0" Project="chartImporter" Source="mainForm.resx" Description="File successfully backed up as C:\Users\Knoxy\Documents\Visual Studio 2010\Projects\chartImporter\Backup\mainForm.resx">
+</Event><Event ErrorLevel="0" Project="chartImporter" Source="My Project\Resources.resx" Description="File successfully backed up as C:\Users\Knoxy\Documents\Visual Studio 2010\Projects\chartImporter\Backup\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="chartImporter" Source="chartImporter.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="chartImporter" Source="chartImporter.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="chartImporter.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="chartImporter.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="chartImporter" Source="chartImporter.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
